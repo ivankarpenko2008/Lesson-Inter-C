@@ -1,1 +1,0 @@
-print([[ i+j*5 for j in range(m)] for i in range(n)])
